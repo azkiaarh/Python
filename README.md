@@ -126,6 +126,13 @@ There's a way to use an apostrophe inside a string literal.
 ## Raw Strings
 You can use r before a string starts to write a string as it is.
   
+  ## Number, Character, and String Transformation
+* ### Uppercase
+The upper() method on a string converts all of the characters to uppercase.
+
+* ### Lowercase
+The upper() method on a string converts all of the characters to lowercase.
+  
 ## Python Trim String
 
 * ### Right Strip | rstrip()
